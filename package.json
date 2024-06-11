@@ -1,0 +1,26 @@
+{
+  "name": "httpclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".dist/index.js",
+  "types": "./types/index.d.ts",
+  "scripts": {
+    "start": "npx tsc --watch",
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlcuax/HttpClinet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlcuax/HttpClinet/issues"
+  },
+  "homepage": "https://github.com/tlcuax/HttpClinet#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
